@@ -1,6 +1,6 @@
 ---
 title: "Artist Statement"
-permalink: /statement/
+permalink: /artist-statement/
 values:
   sidebar:
     nav: "about"
