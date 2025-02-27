@@ -308,7 +308,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: gallery
+      type: portfolio
     values:
       layout: single
       author_profile: false
