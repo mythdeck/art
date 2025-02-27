@@ -323,8 +323,10 @@ defaults:
       comments: # true
       share: true
       related: true
-
-defaults:
+      sidebar:
+        nav: "about"
+        nav: "gallery"
+        nav: "blog"
   # _pages
   - scope:
       path: ""
@@ -332,8 +334,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-defaults:
+      sidebar:
+        nav: "about"
+        nav: "gallery"
+        nav: "blog"
   # _portfolio
   - scope:
       path: ""
@@ -342,11 +346,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
-sidebar:
-  nav: "about"
-  nav: "gallery"
-  nav: "blog"
+      sidebar:
+        nav: "about"
+        nav: "gallery"
+        nav: "blog"
 
 collections:
   portfolio:
