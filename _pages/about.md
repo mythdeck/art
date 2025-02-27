@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+values:
   sidebar:
     nav: "about"
 ---
