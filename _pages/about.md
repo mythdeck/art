@@ -30,10 +30,10 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][] | A post with a large header image. |
-| [HTML Tags and Formatting Post][] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][] | Post displaying highlighted code. |
-| [Post with a Gallery][] | A post showing several images wrapped in `<figure>` elements. |
+| [][] | A post with a large header image. |
+| [][] | A variety of common markup showing how the theme styles them. |
+| [][] | Post displaying highlighted code. |
+| [][] | A post showing several images wrapped in `<figure>` elements. |
 
 
 ---
