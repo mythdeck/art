@@ -2,10 +2,31 @@
 main:
   - title: "About"
     url: /about/
+    children:
+     - title: "Artist Bio"
+       url: /artist-bio/
+     - title: "Artist Statement"
+       url: /artist-statement/
+     - title: "CV"
+       url: /cv/
   - title: "Gallery"
     url: /gallery/
+    children:
+      - title: "2025"
+        url: /2025/
+      - title: "2025"
+        url: /2025/
+      - title: "2024"
+        url: /2024/
+      - title: "Other"
+        url: /other/
   - title: "Blog"
     url: /blog/
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
         
 about:
   - title: "About"
