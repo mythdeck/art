@@ -1,10 +1,8 @@
 
 ---
-title: "About"
 permalink: /about/
-layout: single
+title: "About"
 excerpt: "Myth Deck - A visual artist"
-
 ---
 
 
