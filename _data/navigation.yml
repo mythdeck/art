@@ -18,7 +18,7 @@ about:
      - title: "CV"
        url: /cv/
 
-gallery:
+portfolio:
   - title: "Portfolio"
     url: /portfolio/
     children:
