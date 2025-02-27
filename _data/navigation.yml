@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Gallery"
-    url: /gallery/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Blog"
     url: /blog/
         
@@ -19,8 +19,8 @@ about:
        url: /cv/
 
 gallery:
-  - title: "Gallery"
-    url: /gallery/
+  - title: "Portfolio"
+    url: /portfolio/
     children:
       - title: "2025"
         url: /2025/
