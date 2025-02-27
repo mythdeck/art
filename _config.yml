@@ -289,7 +289,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_blog"
+      path: ""
       type: posts
     values:
       layout: single
@@ -302,7 +302,7 @@ defaults:
         nav: "blog"
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -311,7 +311,7 @@ defaults:
         nav: "about"
   # _portfolio
   - scope:
-      path: "_portfolio"
+      path: ""
       type: portfolio
     values:
       layout: single
