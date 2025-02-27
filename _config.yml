@@ -343,6 +343,11 @@ defaults:
       author_profile: false
       share: true
 
+sidebar:
+  nav: "about"
+  nav: "gallery"
+  nav: "blog"
+
 collections:
   portfolio:
     output: true
