@@ -5,8 +5,6 @@ permalink: /gallery/
 collection: portfolio
 entries_layout: grid
 classes: wide
-sidebar:
-  nav: gallery
 ---
 
 gallery:
