@@ -314,4 +314,4 @@ defaults:
       author_profile: false
       share: true
       sidebar:
-        nav: gallery
+        nav: portfolio
