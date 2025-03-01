@@ -294,8 +294,6 @@ defaults:
       comments: # true
       share: false
       related: true
-      sidebar:
-        nav: "blog"
   # _pages
   - scope:
       path: ""
