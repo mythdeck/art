@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 toc: true
-  toc_label: "About"
+toc_label: "About"
 ---
 ## Intro
 
