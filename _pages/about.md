@@ -3,6 +3,8 @@ title: "About"
 permalink: /about/
 header:
   overlay_color: "#8d6195"
+excerpt: >
+  Meet the Artist.<br />
 toc: true
 toc_label: "About"
 toc_sticky: true
