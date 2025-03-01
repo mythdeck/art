@@ -2,6 +2,6 @@
 title: "Other"
 permalink: /other/
 ---
-Click an image for artwork details.
+Other artworks from 2024-2025
 
-{% include gallery layout="" caption="Other artworks from 2024-2025" %}
+{% include gallery layout="" caption="Click image for artwork details." %}
