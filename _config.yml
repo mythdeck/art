@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Myth Deck"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A visual artist"
+  bio              : "Visual Artist"
   location         : "Missoula, MT"
   links:
     - label: "Instagram"
@@ -125,9 +125,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Instagram"
+    - label: "Email"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/my.ulosis"
+      url: "mailto:mythulosis@gmail.com"
 
 
 # Reading Files
@@ -317,5 +317,3 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      sidebar:
-        nav: "portfolio"
