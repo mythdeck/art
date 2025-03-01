@@ -1,6 +1,6 @@
 ---
-title: "Other"
-permalink: /other/
+title: "Older"
+permalink: /older/
 ---
 Artworks from 2023 and before.
 
