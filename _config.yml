@@ -303,10 +303,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "about"
-      toc: true
-      toc_label: "Page"
   # _portfolio
   - scope:
       path: ""
