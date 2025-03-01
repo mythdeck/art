@@ -14,11 +14,13 @@ Ulosis, as a word, is a noun in British English that is defined as "the formatio
 To me, it is healing. It is growth. It is survival. These are the most basic forms of my self-advocacy which I reflect in all of my work.
 Ulosis is healing is advocacy is art.
 
+
 ## Artist Bio
 
 Missoula-based Myth Indigo is a young artist who displays their life on painted canvasses for all to see. Diving deep into every aspect of first-hand experiences as a member of marginalized populations, he directly advocates for himself through their vivid works that demand to be seen when words can't be heard. Influenced by advocates in their personal spaces, Myth similarly shouts with her own visual voice to make way for those who they believe deserve a chance to speak.
 
 > Myth has been featured in local galleries and publications, and is an active participant in The Western Montana Community Center's creative markets.
+
 
 ## Artist Statement
 
@@ -36,4 +38,23 @@ said sincerely to my face.
 > "Disorder is my richest advantage,"
 is what my work states silently back.
 
+
 ## CV
+
+> Myth Deck
+
+Born 2004 in Great Falls, Montana
+
+Lives and studies in Missoula, Montana
+
+> Education
+
+2022-2026 BFA University of Montana, Missoula, MT
+
+> Exhibitions
+
+2024 Queer Under the Big Sky, Frame of Mind Gallery, Missoula, MT
+
+2024 Annual Juried Show, Frame of Mind Gallery, Missoula, MT
+
+2023 Annual Juried Show, UC Gallery, Missoula, MT
