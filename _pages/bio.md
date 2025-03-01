@@ -6,12 +6,4 @@ values:
     nav: "about"
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
-
-...or something like this:
-
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
-
-You should probably delete this page and create new pages for your content. Have fun!
+Missoula-based Myth Indigo is a young artist who displays their life on painted canvasses for all to see. Diving deep into every aspect of first-hand experiences as a member of marginalized populations, he directly advocates for himself through their vivid works that demand to be seen when words can't be heard. Influenced by advocates in their personal spaces, Myth similarly shouts with her own visual voice to make way for those who they believe deserve a chance to speak. She has been featured in local galleries and publications, and is an active participant in The Western Montana Community Center's creative markets.
