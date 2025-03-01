@@ -3,7 +3,8 @@ title: Portfolio
 layout: collection
 permalink: /portfolio/
 header:
-  overlay_color: "#8d6195"
+  overlay_image: /assets/images/adoseofulosis.jpg
+  overlay_filter: rgba(141, 97, 149, 0.5)
 excerpt: >
   Myth's works.<br />
 collection: portfolio
