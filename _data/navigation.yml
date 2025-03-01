@@ -6,17 +6,6 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /blog/
-        
-about:
-  - title: "About"
-    url: /about/
-    children:
-     - title: "Artist Bio"
-       url: /artist-bio/
-     - title: "Artist Statement"
-       url: /artist-statement/
-     - title: "CV"
-       url: /cv/
 
 portfolio:
   - title: "Portfolio"
