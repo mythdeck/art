@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  overlay_image: /assets/images/aboutpfp.jpg
+  overlay_color: "#8d6195"
 excerpt: >
   Meet the artist.<br />
 toc: true
