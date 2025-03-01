@@ -6,5 +6,5 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 sidebar:
-  nav: none
+  nav: portfolio
 ---
