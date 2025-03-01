@@ -6,23 +6,3 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /blog/
-
-portfolio:
-  - title: "Portfolio"
-    url: /portfolio/
-    children:
-      - title: "2025"
-        url: /2025/
-      - title: "2024"
-        url: /2024/
-      - title: "Other"
-        url: /other/
-
-blog:
-  - title: "Blog"
-    url: /blog/
-    children:
-      - title: "Categories"
-        url: /categories/
-      - title: "Tags"
-        url: /tags/
