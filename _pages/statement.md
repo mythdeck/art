@@ -6,12 +6,14 @@ values:
     nav: "about"
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+Words are messy, and so is art, but the difference I decipher between the two is the tolerance granted in reply to very different attempts of organizing the disorderly.
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+My paintings rely on packaging my quietest yet most insistent words into a digestible and open format. As a young adult in minority groups, I must recognize self-care in the form of communication as a necessity. It is not achievable for myself to be explicit in my needs through words alone. Painting is my form of outspoken advocacy by my own hands.
 
-...or something like this:
+I refuse to depict anything but the coexistence of bitterness and beauty in my work that my words would not quite articulate. The humanity in speechlessness and the vagueness of my values are urged into the physical and digestible by what takes place within the painted worlds. I place the viewer in a spot to uncover their own views and interpretations from mine.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
-
-You should probably delete this page and create new pages for your content. Have fun!
+My creation is neither an echo chamber nor a void, but a conversation to spark new meaning to overlooked and overused words.
+ 
+> "Disorder is disadvantage," said sincerely to my face.
+ 
+> "Disorder is my richest advantage," is what my work states silently back.
