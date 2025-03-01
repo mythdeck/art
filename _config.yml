@@ -305,6 +305,8 @@ defaults:
       author_profile: true
       sidebar:
         nav: "about"
+      toc: true
+      toc_label: "Page"
   # _portfolio
   - scope:
       path: ""
@@ -314,4 +316,4 @@ defaults:
       author_profile: true
       share: false
       sidebar:
-        nav: portfolio
+        nav: "portfolio"
