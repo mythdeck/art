@@ -3,7 +3,7 @@ title: Portfolio
 layout: collection
 permalink: /portfolio/
 header:
-  overlay_image: /assets/images/adoseofulosis.jpg
+  overlay_image: /assets/images/adoseofulosis2.jpg
   overlay_filter: rgba(141, 97, 149, 0.5)
 excerpt: >
   Myth's works.<br />
