@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  overlay_color: "#8d6195"
 toc: true
 toc_label: "About"
 toc_sticky: true
