@@ -14,6 +14,8 @@ I refuse to depict anything but the coexistence of bitterness and beauty in my w
 
 My creation is neither an echo chamber nor a void, but a conversation to spark new meaning to overlooked and overused words.
  
-> "Disorder is disadvantage," said sincerely to my face.
- 
-> "Disorder is my richest advantage," is what my work states silently back.
+> "Disorder is disadvantage,"
+said sincerely to my face.
+> 
+> "Disorder is my richest advantage,"
+is what my work states silently back.
