@@ -121,12 +121,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/my.ulosis"
-
-# Site Footer
-footer:
-  links:
     - label: "Email"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mythulosis@gmail.com"
 
 
