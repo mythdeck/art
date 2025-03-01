@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Myth Deck"
 title_separator          : "-"
-subtitle                 : My Ulosis
+subtitle                 : "Home"
 name                     : "Myth Deck"
 description              : "Artist portfolio and blog"
 url                      : "http://ulosis.me/"
