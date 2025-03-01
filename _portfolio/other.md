@@ -38,8 +38,8 @@ gallery:
     image_path: assets/images/essence.jpg
     alt: "Essence"
     title: "Essence"
-  - url: /assets/images/dothesillyface.jpg
-    image_path: assets/images/dothesillyface.jpg
+  - url: /assets/images/dothesillyface.png
+    image_path: assets/images/dothesillyface.png
     alt: "Do the Silly Face!"
     title: "Do the Silly Face!"
   - url: /assets/images/wonder.jpg
