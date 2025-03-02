@@ -14,10 +14,6 @@ gallery:
     image_path: assets/images/wormonachain.jpg
     alt: "Worm on a Chain"
     title: "Worm on a Chain"
-  - url: /assets/images/reflect1.jpg
-    image_path: assets/images/reflect1.jpg
-    alt: "Reflect"
-    title: "Reflect"
   - url: /assets/images/puzzlingplaces.png
     image_path: assets/images/puzzlingplaces.png
     alt: "Puzzling Places"
