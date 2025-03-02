@@ -18,8 +18,8 @@ gallery:
     image_path: assets/images/reflect.jpg
     alt: "Reflect"
     title: "Reflect"
-  - url: /assets/images/puzzlingplaces.jpg
-    image_path: assets/images/puzzlingplaces.jpg
+  - url: /assets/images/puzzlingplaces.png
+    image_path: assets/images/puzzlingplaces.png
     alt: "Puzzling Places"
     title: "Puzzling Places"
   - url: /assets/images/nightsurfer.jpg
@@ -30,8 +30,8 @@ gallery:
     image_path: assets/images/lamb.jpg
     alt: "Locked Out"
     title: "Locked Out"
-  - url: /assets/images/holdyourhorses.jpg
-    image_path: assets/images/holdyourhorses.jpg
+  - url: /assets/images/holdyourhorses.png
+    image_path: assets/images/holdyourhorses.png
     alt: "Hold Your Horses"
     title: "Hold Your Horses"
   - url: /assets/images/essence.jpg
