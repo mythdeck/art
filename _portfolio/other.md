@@ -67,8 +67,8 @@ gallery:
     image_path: assets/images/seenasrabid.jpg
     alt: "Seen as Rabid"
     title: "Seen as Rabid"
-  - url: /assets/images/mysteryport.jpeg
-    image_path: assets/images/mysteryport.jpeg
+  - url: /assets/images/mysteryport.jpg
+    image_path: assets/images/mysteryport.jpg
     alt: "Portrait of Mystery"
     title: "Portrait of Mystery"
   - url: /assets/images/mosaic.jpg
