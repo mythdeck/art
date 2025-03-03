@@ -43,8 +43,8 @@ gallery:
     image_path: assets/images/wonder.jpg
     alt: "Wonder"
     title: "Wonder"
-  - url: /assets/images/withstanding.jpeg
-    image_path: assets/images/withstanding.jpeg
+  - url: /assets/images/withstanding.jpg
+    image_path: assets/images/withstanding.jpg
     alt: "Withstanding"
     title: "Withstanding"
   - url: /assets/images/webbed.jpg
@@ -67,8 +67,8 @@ gallery:
     image_path: assets/images/seenasrabid.jpg
     alt: "Seen as Rabid"
     title: "Seen as Rabid"
-  - url: /assets/images/mysteryport.jpg
-    image_path: assets/images/mysteryport.jpg
+  - url: /assets/images/mysteryport.jpeg
+    image_path: assets/images/mysteryport.jpeg
     alt: "Portrait of Mystery"
     title: "Portrait of Mystery"
   - url: /assets/images/mosaic.jpg
@@ -83,8 +83,8 @@ gallery:
     image_path: assets/images/catnipped.jpg
     alt: "Catnipped"
     title: "Catnipped"
-  - url: /assets/images/artofhealing.jpeg
-    image_path: assets/images/artofhealing.jpeg
+  - url: /assets/images/artofhealing.jpg
+    image_path: assets/images/artofhealing.jpg
     alt: "Art of Healing"
     title: "Art of Healing"
   - url: /assets/images/alertatrest.jpg
