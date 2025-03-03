@@ -8,10 +8,8 @@ excerpt: >
 toc: true
 toc_label: "About"
 toc_sticky: true
-image:
-  feature: aboutpic.jpg
-  thumb: aboutpicth.jpg
 ---
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/aboutpic.jpg){: .align-center}
 ## Intro
 
 Myth (he/she/they) is a current painting BFA student in The University of Montana's class of 2026. Located in Missoula, MT. They are a queer, neurodivergent, disabled artist who self-advocates through his work and aims to uplift marginalized experiences through the visual representations of her own.
