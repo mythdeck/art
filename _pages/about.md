@@ -8,6 +8,9 @@ excerpt: >
 toc: true
 toc_label: "About"
 toc_sticky: true
+image:
+  feature: aboutpic.jpg
+  thumb: aboutpicth.jpg
 ---
 ## Intro
 
