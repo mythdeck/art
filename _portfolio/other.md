@@ -1,6 +1,7 @@
 ---
 title: "Other"
 permalink: /other/
+number: 3
 gallery:
   - url: /assets/images/sourpatchkid.jpg
     image_path: assets/images/sourpatchkid.jpg
