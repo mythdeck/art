@@ -1,6 +1,7 @@
 ---
 title: "Older"
 permalink: /older/
+number: 4
 ---
 Artworks from 2023 and before.
 
