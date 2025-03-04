@@ -9,4 +9,6 @@ main:
 
 portfolio:
   - title: "Portfolio"
-  - url: /portfolio/
+    children:
+      - title: "Home"
+        url: /portfolio/
