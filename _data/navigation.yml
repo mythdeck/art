@@ -8,5 +8,5 @@ main:
     url: /blog/
 
 portfolio:
-  - title: "Home"
+  - title: "Portfolio"
   - url: /portfolio/
