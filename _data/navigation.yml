@@ -6,3 +6,7 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /blog/
+
+portfolio:
+  - title: "Home"
+  - url: /portfolio/
