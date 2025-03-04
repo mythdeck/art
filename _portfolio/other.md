@@ -108,6 +108,6 @@ gallery:
     alt: "Disembodied"
     title: "Disembodied, February 2024, Charcoal on newsprint, 18 X 24 in"
 ---
-Other artworks from 2024-2025
+Other artworks from 2024-2025.
 
 {% include gallery layout="" caption="Click image for artwork details." %}
