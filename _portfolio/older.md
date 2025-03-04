@@ -11,8 +11,8 @@ gallery:
     image_path: assets/images/sandyport.jpg
     alt: "Portrait of Sandy"
     title: "Portrait of Sandy"
-  - url: /assets/images/dysmorphia.jpg
-    image_path: assets/images/dysmorphia.jpg
+  - url: /assets/images/Dysmorphia.jpg
+    image_path: assets/images/Dysmorphia.jpg
     alt: "Dysmorphic"
     title: "Dysmorphic"
   - url: /assets/images/coffeepaint.jpg
