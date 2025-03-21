@@ -12,7 +12,7 @@ toc_sticky: true
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/aboutpic.jpg){: .align-center}
 ## Intro
 
-Myth (he/she/they) is a current painting BFA student in The University of Montana's class of 2026. Located in Missoula, MT. They are a queer, neurodivergent, disabled artist who self-advocates through his work and aims to uplift marginalized experiences through the visual representations of her own.
+Myth (he/she/they) is a current painting BFA student in The University of Montana's class of 2026. Located in Missoula, MT, they are a queer, neurodivergent, disabled artist who self-advocates through his work and aims to uplift marginalized experiences through the visual representations of her own.
 
 > What is "ulosis?"
 
@@ -25,7 +25,7 @@ Ulosis is healing is advocacy is art.
 
 Missoula-based Myth Indigo is a young artist who displays their life on painted canvasses for all to see. Diving deep into every aspect of first-hand experiences as a member of marginalized populations, he directly advocates for himself through their vivid works that demand to be seen when words can't be heard. Influenced by advocates in their personal spaces, Myth similarly shouts with her own visual voice to make way for those who they believe deserve a chance to speak.
 
-> Myth has been featured in local galleries and publications, and is an active participant in The Western Montana Community Center's creative markets.
+> Myth has been featured in publications with the University of Montana and local gallery spaces. You can often find them at Missoula art markets and events!
 
 
 ## Artist Statement
@@ -57,10 +57,12 @@ Lives and studies in Missoula, Montana
 
 2022-2026 BFA University of Montana, Missoula, MT
 
-> Exhibitions
+> Exhibitions and Publications
 
 2024 Queer Under the Big Sky, Frame of Mind Gallery, Missoula, MT
 
 2024 Annual Juried Show, Frame of Mind Gallery, Missoula, MT
+
+2024 Oval Literary Magazine, University of Montana, Missoula, MT
 
 2023 Annual Juried Show, UC Gallery, Missoula, MT
