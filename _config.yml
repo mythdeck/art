@@ -102,12 +102,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/my.ulosis"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mythulosis@gmail.com"
 
 # Analytics
 analytics:
@@ -130,6 +124,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mythulosis@gmail.com"
+
+footer:
+  links:
+   - label: "Instagram"
+     icon: "fab fa-fw fa-instagram"
+     url: "https://instagram.com/my.ulosis"
+   - label: "Email"
+     icon: "fas fa-fw fa-envelope-square"
+     url: "mailto:mythulosis@gmail.com"
 
 
 # Reading Files
