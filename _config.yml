@@ -102,9 +102,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-      - label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
-        url: "mailto:mythulosis@gmail.com"
 
 # Analytics
 analytics:
