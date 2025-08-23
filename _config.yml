@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Myth Deck"
 title_separator          : "-"
 subtitle                 : "Home"
-name                     : "Myth Deck"
-description              : "Artist portfolio"
+name                     : "Artist Portfolio"
+description              : 
 url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mythdeck/art"
