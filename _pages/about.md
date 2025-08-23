@@ -10,15 +10,11 @@ toc_label: "About"
 toc_sticky: true
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/aboutpic.jpg){: .align-center}
-## Intro
-
-Myth (he/she/they) is a current painting BFA student in The University of Montana's class of 2026. Located in Missoula, MT, 
 
 
 ## Artist Bio
 
-Missoula-based Myth Indigo is a young artist who
-
+Myth Indigo Deck (he/she/they) is a current painting BFA student in The University of Montana's class of 2026. Located in Missoula, MT,
 
 ## CV
 
