@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Myth Deck"
+  name             : "Contact"
   avatar           : "/assets/images/pfp.jpg"
-  bio              : "Visual Artist"
+  bio              : "Connect with Myth!"
   location         : "Missoula, MT"
   links:
     - label: "Instagram"
@@ -124,16 +124,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mythulosis@gmail.com"
-
-footer:
-  links:
-   - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
-     url: "https://instagram.com/my.ulosis"
-   - label: "Email"
-     icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:mythulosis@gmail.com"
-
 
 # Reading Files
 include:
