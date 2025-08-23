@@ -3,8 +3,6 @@ title: "About"
 permalink: /about/
 header:
   overlay_color: "#8d6195"
-excerpt: >
-  Meet the artist.<br />
 toc: false
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/aboutpic.jpg){: .align-center}
